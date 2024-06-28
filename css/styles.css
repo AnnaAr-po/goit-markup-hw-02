@@ -1,6 +1,3 @@
-
-font-family: "Raleway", sans-serif;
-font-family: "Roboto", sans-serif;
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -19,8 +16,41 @@ a {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 117%;
+        line-height: 1,17%;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+}
+.header-logo .logo-part {
+    color: #2e2f42;
+}
+.footer-logo .logo-part {
+    color: #f4f4fd;
+}
+.nav-link {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+}
+.addres {
+    font-style: normal;
+}
+.address-link {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.address-link :hover,
+.address-link :focus {
+    color: #404bbf;
+}
+.page-footer {
+    background-color: #2e2f42;
 }
