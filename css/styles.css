@@ -120,22 +120,6 @@ text-transform: capitalize;
 .team-item {
     background-color: #fff;
 }
-.team-subtitle {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-text-align: center;
-color: #2e2f42;
-background-color: #ffffff;
-}
-.team-item-text {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-text-align: center;
-color: #434455;
-}
 /*-------------------Team -----------------*/
 
 /*-------------------Portfolio-----------------*/
