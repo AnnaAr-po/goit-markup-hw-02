@@ -53,10 +53,10 @@ a {
 }
 .solutions-img {
     background: #2e2f42;
+    text-align: center;
 }
 .solutions-text {
-    font-family: "Roboto", sans-serif;
-font-weight: 700;
+    font-weight: 700;
 font-size: 56px;
 line-height: 1.07143;
 letter-spacing: 0.02em;
@@ -64,17 +64,43 @@ text-align: center;
 color: #fff;
 }
 .solutions-button {
+    background-color: #4d5ae5;
+    border: none;
     font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+cursor: pointer;
+}
+.solutions-button :hover,
+.solutions-button :focus {
+    background-color: #404bbf;
 }
 .features {
     background: #f4f4fd;
 }
-
+.hidden {
+    background: #fff;
+}
+.feautures-list {
+    background-color: #ffffff;
+}
+.feautures-header {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.feautures-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 /*-------------------Team -----------------*/
 .team {
     background: #f4f4fd;
@@ -146,4 +172,11 @@ color: #434455;
 
 .page-footer {
     background-color: #2e2f42;
+}
+.footer-item-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
