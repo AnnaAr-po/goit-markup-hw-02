@@ -75,6 +75,7 @@ cursor: pointer;
 .solutions-button:focus {
     background-color: #404bbf;
 }
+
 .features {
     background: #f4f4fd;
 }
@@ -101,7 +102,7 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color: #434455;
 }
-/*-------------------Team -----------------*/
+
 .team {
     background: #f4f4fd;
 }
@@ -120,9 +121,7 @@ text-transform: capitalize;
 .team-item {
     background-color: #fff;
 }
-/*-------------------Team -----------------*/
 
-/*-------------------Portfolio-----------------*/
 .portfolio {
 
 }
