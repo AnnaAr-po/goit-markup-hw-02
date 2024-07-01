@@ -44,8 +44,8 @@ a {
         letter-spacing: 0.02em;
         color: #434455;
 }
-.address-link :hover,
-.address-link :focus {
+.address-link:hover,
+.address-link:focus {
     color: #404bbf;
 }
 .solutions-img {
